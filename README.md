@@ -4,13 +4,15 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Screenshot
 
 ![](./images/screenshot-1.png)
+
 ![](./images/screenshot-2.png)
 
 
 ### Links
 
--[solution](https://your-solution-url.com)
--[live site](https://your-live-site-url.com)
+-[solution](https://www.frontendmentor.io/solutions/3-column-preview-card-component-DrePFSz1gO)
+
+-[live site](https://aymennassi.github.io/3-column-preview-card-component/)
 
 ## My process
 
